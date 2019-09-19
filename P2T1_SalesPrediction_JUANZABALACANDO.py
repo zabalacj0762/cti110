@@ -1,7 +1,7 @@
 #get th projected total sales
 #17 September 2019
 #CTI-110-P2T1
-#JUAN ZABALA CANDO
+#JUAN ZABALA CANDo
 #
 total_sales= float(input('Enter the projected sales: '))
 #calculate the profit as 23 percent of total sales
